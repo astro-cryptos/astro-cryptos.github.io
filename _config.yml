@@ -19,7 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Astro Crypto"
 description: "Bitcoin & Crypto-currency Financial Astrology."
-baseurl: "/AstroCrypto"
+baseurl: ""
 url: "https://silvinaroldan.github.io"
 logo: "images/Logo.png"
 date_format: "%B %-d, %Y"
