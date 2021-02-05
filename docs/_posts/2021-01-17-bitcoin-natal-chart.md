@@ -8,6 +8,7 @@ tags:
 
 last_modified_at: 2021-01-17T14:25:52-05:00
 ---
+There is a phrase that I like: "Businesses are done by information difference". So, why not add astrology to the technical and fundamental crypto analysis in order to make better businesses.
 
 I started this path of seeing cryptocurrencies from an astrological point of view and I'd like to share it with you to continue learning, so all comments and contributions are welcome.
 
