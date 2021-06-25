@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: astro-cryptos.github.io
+Token: ad4446445a94e9003f7133351e9b627f7dd6ffc1936ec8e73c30f819099f84c3
